@@ -31,7 +31,7 @@ function a() {
     var e = b[Math.floor(Math.random() * b.length)];
     var f = c[Math.floor(Math.random() * c.length)];
     var g = d[Math.floor(Math.random() * d.length)];
-    var h = g + " " + e + " " + f + " " + g;
+    var h = g + " " + e + f + " " + g;
     var i = document.getElementById("fontSelect").value;
     var j = document.getElementById("nicknameResult");
     
