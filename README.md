@@ -1,0 +1,1 @@
+Generator Nickname Game ini sudah dikombinasikan dengan Simbol/ karakter unik dan font yang keren. Kombinasi Bahasa ada Inggris dan Indonesia, hasil bisa cek disini: https://www.pecinta.games/p/game-nickname-generator.html
