@@ -6,7 +6,7 @@ function a() {
         "Zephyr", "Silent", "Crimson", "Frost", "Void", "Nebula", "Star", 
         "Tiger", "Wind", "Spirit", "Artifact", "Darkness", "Water", "Ocean", 
         "Earth", "Lightning", "Moon", "Cobra", "Bolt", "Glacier", "Titanium", 
-        "Obsidian", "Specter", "Wraith", "Fury", "Dusk", "Havoc", "Riptide"
+        "Obsidian", "Specter", "Wraith", "Fury", "Dusk", "Havoc", "Riptide", "Udin", "Onta", "Maung", "Capung", "Cupang", "Kodok", "Virus", "Kuman", "Bakteri"
     ];
     
     var c = [
@@ -17,7 +17,7 @@ function a() {
         "Chaosbringer", "Shadewalker", "Tempest", "Breaker", "Executor", 
         "Saboteur", "Hero", "Vanquisher", "Protector", "Fighter", "Conqueror", 
         "Avenger", "Savior", "Defender", "Sentinel", "Prowler", "Brawler", 
-        "Juggernaut", "Demon", "Mystic"
+        "Juggernaut", "Demon", "Mystic", "Uzumaki", "Gaming"
     ];
     
     var d = [
