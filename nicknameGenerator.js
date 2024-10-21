@@ -41,5 +41,5 @@ nicknameElement.innerHTML = nickname;
     document.body.removeChild(tempInput);
 
     // Alert the user that the nickname has been copied
-    alert("Nickname " + nicknameText + " berhasil disalin!");
+    alert("Nama " + nicknameText + " berhasil disalin!");
   }
